@@ -1,0 +1,168 @@
+id: abf26b54503f42d1a73051a0aa014533
+annotation_type: Segment
+revision: '00001'
+annotations:
+  677525b3396a41f89031214a755321eb:
+    span:
+      start: 0
+      end: 6
+  dabef89e089345d090f6a21c5fe554b5:
+    span:
+      start: 7
+      end: 13
+  3fc9b61723e94d0abc924b318fab9927:
+    span:
+      start: 14
+      end: 18
+  c16fb20c957947499664c8abc10cce5c:
+    span:
+      start: 19
+      end: 24
+  6e89f58fc29f4dbab688396391df4f79:
+    span:
+      start: 25
+      end: 31
+  5f1385168786456b83e87d3de460f9aa:
+    span:
+      start: 32
+      end: 36
+  60274388e6f343e38883cdad5a00429c:
+    span:
+      start: 37
+      end: 41
+  c7c81f04761b448f9f04542f13eaa3e2:
+    span:
+      start: 42
+      end: 46
+  19cd67accc1348a9b1ae0703f3c5cca4:
+    span:
+      start: 47
+      end: 53
+  81eac7ce695040f7a62784d197a0cca8:
+    span:
+      start: 54
+      end: 64
+  353459b615464095b927c2ac5de254ec:
+    span:
+      start: 65
+      end: 69
+  0f2a6e372e6d462cb76195d47cd4390a:
+    span:
+      start: 70
+      end: 90
+  eccb26be096d46c988b4b9c6c5ce0dcc:
+    span:
+      start: 91
+      end: 104
+  84bed8b455a44d55bc44be7e4ad25c4e:
+    span:
+      start: 105
+      end: 129
+  b663a0e4a17641c38be94dd0a3aaf8f9:
+    span:
+      start: 130
+      end: 135
+  c880330927cb4644ac5dd7e684b8c9c0:
+    span:
+      start: 136
+      end: 141
+  3ef88a9564724b199b9810b279dbe5a3:
+    span:
+      start: 142
+      end: 147
+  bfe3b74d8d584570be203dbf86cf1e6f:
+    span:
+      start: 148
+      end: 153
+  2f3adc2eea8b4f93a741dd1d2af404b9:
+    span:
+      start: 154
+      end: 159
+  77e294c3f64b4cb2a2d57e23c6b6d9b4:
+    span:
+      start: 160
+      end: 165
+  a3ff7b7118564b5c891c04408ef20c16:
+    span:
+      start: 166
+      end: 170
+  5b5c4970a50f43d5954e49b379aa9719:
+    span:
+      start: 171
+      end: 175
+  97efcad1920b40a49c40b5df7971cf90:
+    span:
+      start: 176
+      end: 180
+  40f4c76eb9ed4126a2559a0e9e494cdf:
+    span:
+      start: 181
+      end: 185
+  37c7aa58ba4b401f9f8c4e35de329732:
+    span:
+      start: 186
+      end: 191
+  dc9e8c340c184977bd8cfc45df6596b6:
+    span:
+      start: 192
+      end: 198
+  dbd0c90266804bf69280879f25b0e69b:
+    span:
+      start: 199
+      end: 204
+  78abe558ae304fea9237b3a6aa568427:
+    span:
+      start: 205
+      end: 209
+  b4b033a8d78e4b15826bb0e73826e528:
+    span:
+      start: 210
+      end: 222
+  3ce902c75df946aaa16e8bf86a463cf7:
+    span:
+      start: 223
+      end: 227
+  a78523bda497451b996d6f9f3aa4b472:
+    span:
+      start: 228
+      end: 234
+  f9f10651e0df40ba9e033b7e5844067b:
+    span:
+      start: 235
+      end: 240
+  9fe36daea203437bbb72771f599fd2d1:
+    span:
+      start: 241
+      end: 254
+  ce032c820851471f89c488c9a8085dcb:
+    span:
+      start: 255
+      end: 259
+  e50306b9665f4d8bb7a29e75847058f8:
+    span:
+      start: 260
+      end: 273
+  fd89d4b3562645ad8178c81676669521:
+    span:
+      start: 274
+      end: 279
+  bf8c9d355c694005aa004906b2a03c9e:
+    span:
+      start: 280
+      end: 287
+  2bc620373f894a6cb11d2831669b2943:
+    span:
+      start: 288
+      end: 293
+  7c779b678d0b4898b9c31d2956ba9773:
+    span:
+      start: 294
+      end: 301
+  997d577885d044e7b0d3a15592716bb7:
+    span:
+      start: 302
+      end: 307
+  cd04a6f683b5435ea7551358493a9756:
+    span:
+      start: 308
+      end: 314

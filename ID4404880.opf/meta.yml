@@ -1,0 +1,16 @@
+id: ID4404880
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 16:17:38.868407
+last_modified: 2023-02-08 16:17:38.868547
+source_metadata:
+  title: Grammar of Buddhist Chinese
+  language: zh
+bases:
+  D04A:
+    base_file: D04A.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
